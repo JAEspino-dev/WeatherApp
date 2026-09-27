@@ -11,7 +11,7 @@ Open the app in your browser Enter a location, submit Instantly view current wea
 Fully responsive design for desktop and mobile
 
 # 🔨 Built With
-HTML5 – structure, CSS3 – responsive design and background, JavaScript - fetch image of the day from NASA API
+HTML5 – structure, CSS3 – responsive design and background, JavaScript - fetch weather info using API
 
 # 🧠 What I Learned
 How to work with APIs How to use fetch() How to manipulate the DOM How to handle errors
