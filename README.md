@@ -1,5 +1,5 @@
 # ☀️ Current Weather App
-Use this program if you want to a location's weather!
+Use this program if you want to view a location's weather!
 
 # 📋 How to use
 Open the app in your browser.  
